@@ -1,0 +1,8 @@
+.springBeans
+.idea
+
+*.iml
+*.iws
+*.ipr
+
+.
